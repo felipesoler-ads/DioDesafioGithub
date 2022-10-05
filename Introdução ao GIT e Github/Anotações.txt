@@ -1,0 +1,4 @@
+links uteis:
+https://git-scm.com/downloads
+
+O GIt Bash É UM TERMINAL EXTENDIDO PARA OTIMIZAR O USO DO GIT.
